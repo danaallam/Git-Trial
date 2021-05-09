@@ -15,7 +15,6 @@
 <br><br>
 
 ## **Education**
----
 
 | Year | College |
 | ------- | --------|
@@ -26,7 +25,7 @@
 <br>
 
 ## **Trainings**
----
+
 * Lebanese Scouts
 * Red Cross First Aid Training
 * Essential Introduction to Drawing – Certificate owned
@@ -35,15 +34,22 @@
 
 <br>
 
+## **Skills**
+
+* Programming Languages (C, C#, java, javascript, php)
+* Microsoft Office System (Word, Excel, PowerPoint)
+* Hard working, Fast learner, Creative, Innovative, Dynamic, Self-motivated
+
+<br>
 
 ## **Languages**
----
+
 * English
 * Arabic
 
 <br>
 
 ## **Interests and Hobbies**
----
+
 * Music
 * Drawing
