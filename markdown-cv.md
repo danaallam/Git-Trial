@@ -14,6 +14,8 @@
 </div>
 <br><br>
 
+<image src="https://raw.githubusercontent.com/danaallam/Git-Trial/Dana-Allam/d.png" alt="myProfile" width="300">
+
 ## **Education**
 
 | Year | College |
